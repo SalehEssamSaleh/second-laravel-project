@@ -8,6 +8,9 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+        </style>
 
         <!-- Styles -->
         <style>
@@ -35,7 +38,7 @@
                     @endauth
                 </div>
             @endif
-
+            
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
@@ -44,7 +47,14 @@
                         </g>
                     </svg>
                 </div>
-
+                <br>
+                    <div class="card" style="text-align:center; border: 1px solid gray; border-radius:9px; font-family: 'Cairo', sans-serif;">
+                        <div class="card-body">
+                            <h1>This is Production Environment - أنا صالح عصام صالح</h1>
+                        </div>
+                    </div>
+                <br>
+                
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">
