@@ -50,7 +50,7 @@
                 <br>
                     <div class="card" style="text-align:center; border: 1px solid gray; border-radius:9px; font-family: 'Cairo', sans-serif;">
                         <div class="card-body">
-                            <h1>This is Production Environment - أنا صالح عصام صالح</h1>
+                            <h1>This is Staging Environment - أنا صالح عصام صالح</h1>
                         </div>
                     </div>
                 <br>
